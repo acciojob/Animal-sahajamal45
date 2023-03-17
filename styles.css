@@ -3,13 +3,11 @@
 	background-color:gray;
 	margin: 0px 60px 0px 60px;
 	border-radius:5px;
-/* 	position:float; */
+/* display:flex; */
 }
 img{
-	height:150px;
-	width:150px;
-/* 	display:inline-flex; */
-/* 	padding:20px; */
+	height:100px;
+	width:100px;
 	border:1px solid gray;
 	margin:20px;
 	border-radius:15px;
